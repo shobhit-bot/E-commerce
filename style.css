@@ -1,0 +1,167 @@
+a{
+    color:none;
+}
+.contact ul li{
+    list-style: none;
+    display: inline;
+    padding-right: 5px;
+    margin :10px;
+    
+}
+.ico li{
+    list-style: none;
+    display: inline;
+    float : right;
+    padding-right: 15px;
+    margin: 10px;
+    
+
+}.contact {
+    margin: 5px;
+}
+.col-md-4 a{
+    font-family: Urbanist;
+    font-size:15px;
+    font-weight:500;
+}
+a.navbar-brand {
+    font-size: 50px;
+    margin-left: 85px;
+}
+
+img.card-img-top {
+    width: 100%;
+    transition: transform 0.5s ease;
+
+}
+img.card-img-top:hover{
+    transform: scale(0.8);
+}
+
+.card1{
+    height:600px;
+    background-color: antiquewhite;
+    width:100%;
+}
+a.btn.btn-primary {
+    background-color: black;
+    width:150px;
+    border-radius:5px;
+    border-color: rgb(78 118 97);
+    margin-left: 284px;
+}
+.d1{
+    height:150px;
+}
+.d2{
+    text-align: center;
+    justify-content: center;
+}
+/* d3{
+    text-align:center;
+    justify-content:center;
+    font-weight: 800;
+    font-size: 100px;
+} */
+p.card-text {
+    font-size: 73px;
+    text-align: center;
+    margin-top: 45px;
+}
+.container-fluid {
+    text-align: center;
+
+}
+.pks{
+    margin-top: 100px;
+}
+#prd{
+    margin-bottom: 100px;;
+}Compan
+gallery img{
+    margin:20px;
+}
+img {
+
+    width: 100%;
+}
+.info{
+    margin-left: 72px;
+}
+.pht{
+    align-content: center;
+}
+img.card-img1 {
+    margin-left: 200px;
+    width: 350px;
+    height: 500px;
+    width: 350px;
+}
+.keywo ul li{
+    margin-left:120px;
+    list-style: none;
+    display:inline;
+    font-size: 50px;
+    margin-top: 100px;
+    font-stretch: expanded;
+}s
+.keywo {
+    margin-top: 100px;
+}
+ul.sell {
+    margin-left: -214px;
+}
+.na-s{
+    color:lightgrey
+    
+}
+.na-s:hover{
+    color:black;
+}
+.photos img{
+    display:inline;
+}
+.products a{
+    text-decoration:none;
+    color:black;
+}
+.products a:hover{
+    text-decoration:none;
+    color:grey;
+}
+.form-design {
+    margin: 10px;
+    padding: 10px;
+}
+input[type="text"] {
+    margin-left: 40px;
+    margin-right: 20px;
+}
+button{
+    margin: 239px;
+}
+input[type="number"] {
+    margin-right: 30px;
+}
+input[type="email"] {
+    margin-right: 30px;
+}
+.rud{
+    color:red;
+}
+#spcl{
+    margin-left:250px;
+}
+#head{
+    font-size : 22px;
+    font-weight: 400;
+}
+.text_field span{
+    display:inline; 
+    float: left;
+    width:100%;
+    padding : 20px 0px 10px 25px;
+
+    
+
+}
